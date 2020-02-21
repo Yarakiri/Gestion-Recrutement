@@ -399,7 +399,7 @@ int main(){
             printf("- %s = %d \n", tres.nom, tres.nbr);
             printf("- %s = %d \n", cuatro.nom, cuatro.nbr);
 
-            printf("C'est bon? [1]oui|[2]non\n");
+            printf("C'est bon? [1]oui\n");
             scanf("%d", &choixvue);
              
       break;      
