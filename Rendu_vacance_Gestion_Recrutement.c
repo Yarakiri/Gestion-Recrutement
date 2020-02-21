@@ -84,9 +84,9 @@ int main(){
 
 
   while(i > 0  ){
-    Color(0,15);
+    Color(0,11);
     printf("----JOUR %d----\n", jour);
-    Color(15,0);
+    Color(11,0);
     Color(14,0);
     printf("Ton argent est de %d\n", yuan);
     Color(15,0);
